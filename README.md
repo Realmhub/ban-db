@@ -1,4 +1,5 @@
 # Realm Hub Community Banlist
+[![Discord](https://img.shields.io/discord/1072640106151821432?label=Discord&logo=discord&color=5865F2)](https://discord.gg/afJfN9hNeH)
 
 This repository hosts the official banlist for the Realm Hub community. We maintain this list to keep our Minecraft Bedrock servers safe, fair, and fun for every player.
 
@@ -24,3 +25,5 @@ We believe that a fair community requires open information. Suspensions and bans
 ## How to Appeal
 
 Mistakes can happen. If you believe your Gamertag is on this list in error, you can submit an appeal through our official Discord ticket system. Our moderation team reviews appeals weekly. We look at the original evidence and your statement to make a final decision.
+
+[![Discord Banner](https://discord.com/api/guilds/1072640106151821432/widget.png?style=banner2)](https://discord.gg/afJfN9hNeH)
